@@ -3,11 +3,11 @@ const edit_info = `Di Bawah`// ga usah di otak atik
 
 const urlpepe = `https://telegra.ph/file/4a898640fa32d4018a384.jpg`// url/link foto
 
-const namaowner = `4K Sanzz`// nama owner
-const noowner = `6281236167286`// nomor owner
+const namaowner = `Ahmad Store`// nama owner
+const noowner = `62895323035018`// nomor owner
 
-const packname = `Fxyz-Botz`// nama pack sticker
-const author = `4K Sanzz`// nama author stiker
+const packname = `Push-Botz`// nama pack sticker
+const author = `Ahmad Store`// nama author stiker
 
 const pending = `2000`// waktu tunggu broadcast
 /**EDIT WAKTU TUNGGU BROADCAST DI ATAS
